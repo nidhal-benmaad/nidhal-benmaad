@@ -6,7 +6,7 @@ Full-stack Developer and Designer
 
 I've been learning to code for 6 years. I started with HTML, but have really found a passion for frontend development.with specialties in Vuejs, React, react native, Figma.
 
-* ✉️  You can contact me at [nidhal.benmaad@esprit.tn](mailto:nidhal.benmaad@esprit.tn)
+* ✉️  You can contact me at [benmaadnidhal96@gmail.com](mailto:benmaadnidhal96@gmail.com)
 
 ### Skills
 
